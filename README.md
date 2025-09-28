@@ -1,8 +1,8 @@
-# Simulation and Motion in Robotics - Starkit MIPT Master of Sciences program (Autumn 2025 - Spring 2026)
+# Algorithms - AI Masters (Autumn 2025 - Spring 2026)
 
-The repository for masters course SMR-2025 by robotics team Starkit from MIPT. The course is a part of MSc program for MIPT students in Artificial Intelligence and Robotics.
+Repository for the course Algorithms-2025 in AI Masters.
 
-Authors: Ilya Osokin, Prokhor Iashin.
+Authors: Ilya Osokin, Prokhor Iashin, Nikolay Kuznetsov.
 
 ## Materials
 
@@ -13,28 +13,20 @@ The repository is updated according to the course flow. Here you can find the fo
 
 Moreover, there are several additional course pages:
 
-- [Google Classroom](https://classroom.google.com/c/Nzc1NDE2MzE4MDYz?cjc=52cq7oy3) - home assignments; the deadline is typically 23:59 Moscow time (GMT+3) the day before the lecture
-- [Yandex.Disk](https://disk.yandex.ru/d/F3czEm8wTydz6Q/Simulation%20and%20Motion%20in%20Robotics) - video recordings of lectures and seminars
-- [Overleaf Project](https://www.overleaf.com/read/cxmpdxfvddzx#5b9e39) - LaTeX sources of home assignment
+- [Google Classroom](https://classroom.google.com/c/ODA5NzMwNjgyMDUy?cjc=3qlev27b) - home assignments; the deadline is typically 23:59 Moscow time (GMT+3) the day before the lecture
+- [Overleaf Project](https://www.overleaf.com/read/nswzjmrczywd#22f2f3) - LaTeX sources of home assignment
 
 ## Recommended Resources
 
 You may also see the list of recommended literature:
 
-- [Underactuated Robotics](https://underactuated.csail.mit.edu/index.html) - the most recommended control book. It covers lots of topics providing mathematical proofs and practical applications of those methods. [pdf](https://disk.yandex.ru/i/mNgnYIjB-bJu9g) also available.
-- [Modern Robotics](https://disk.yandex.ru/i/E2AQmGBGnNMpuA) - the comprehensive book provides more information about mechanical systems and control methods
+- [Introduction to Algorithms. Cormen. (RU)](https://disk.yandex.ru/i/CLzI0vEW4W3gXQ) - the book covers all the topics discussed in the course and even more. You may use it as a handbook or an instrument of self-defence
+- [Algorithms. Dasgupta. (RU)](https://disk.yandex.ru/i/ur9vX1VuXMKeWg) - simpler explanatory book
 
-You may also need additional video sources:
-
-- [Modern Robotics](https://youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx&si=SEDOkz-dKOGh6c4E) - playlist created according to the book [Modern Robotics](https://disk.yandex.ru/i/E2AQmGBGnNMpuA)
-- [Control Bootcamp](https://youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m&si=QtdDB0WAYxHpLQxu) - lectures by Steven Brunton. The playlist provides an information about the most important control algorithms
-
-All the books and even more are available in pdf via our [Yandex Disk Library Folder](https://disk.yandex.ru/d/lcvE7rAMY8gIGg).
+All the books and even more are available in pdf via our [Yandex Disk Library Folder](https://disk.yandex.ru/d/li8Xj1NekV4gPA).
 
 ## Course Program
 
-| Lecture Topic | Lecture Date | Lecture Record |  Notes | Home Assignment |  Deadline  |
-|:-|:-:|:-:|:-:|:-:|:-:|
-| Introduction to the Starkit MSc program. Course topics, state space formalism. Simulation of a 1-DoF dynamical system. | 03.09.2024 | [lecture](https://disk.yandex.ru/i/Zl46nC_kU5OA7g) <br> [seminar](https://disk.yandex.ru/i/q1mxvfol1KSyqA) | [presentation (mag)](/lectures/01_introduction/lec_mag_overview_25-27.pptx) <br> [presentation (smr)](/lectures/01_introduction/lec_introduction.pptx) <br> [code](/lectures/01_introduction/sem_introduction.ipynb) | [assignment](/home_assignments/ha01/smrmag_ha01_2025.ipynb) | 09.09.25 23:59 |
-| Euler-Lagrange Equation. Dynamical Systems and Control. System State. Discretization. Sample-and-Hold control. | 10.09.2024 | [lecture (p. 1)](https://disk.yandex.ru/i/mNWyT1OPjrEq7w) <br> [lecture (p. 2)](https://disk.yandex.ru/i/_bpV1hedsInxgg) | [code](/lectures/02_euler_lagrange_discretization/sem_euler_lagrange_discretization.ipynb) | [assignment](/home_assignments/ha02/smrmag_ha02_2025.pdf) | 16.09.25 23:59 |
-| Energy Increment in Euler Integration, Cart-Pole Motion Equations Derivation. Linear-Quadratic Regulator. | 17.09.2024 | [lecture (p. 1)](https://disk.yandex.ru/i/SSqOD686MVMpzw) <br> [lecture (p. 2)](https://disk.yandex.ru/i/9LjEQ9g3dkWtDg) <br> [lecture (p. 3)](https://disk.yandex.ru/i/DHwFIctJoJMviQ) | [code](/lectures/03_lqr/sem_lqr.ipynb) | [assignment](/home_assignments/ha03/smrmag_ha03_2025.pdf) | 23.09.25 23:59 |
+| Lecture Topic | Lecture Date |  Notes | Home Assignment |  Deadline  |
+|:-|:-:|:-:|:-:|:-:|
+| Intoduction to Algorithms. Complexity. Big-O, Big-Theta, Big-Omega Notations. | 26.09.2024 | [notes](/lectures/01_introduction/notes_introduction.pdf) | [assignment](/home_assignments/ha01/algai_ha01_2025.pdf) | 02.10.25 23:59 |
