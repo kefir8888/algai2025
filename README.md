@@ -2,7 +2,7 @@
 
 Repository for the course on algorithms and data structures in AI Masters.
 
-Authors: Ilya Osokin, Prokhor Iashin.
+Authors: Ilya Osokin, Prokhor Iashin, Nikolay Kuznetsov.
 
 ## Materials
 
@@ -27,4 +27,4 @@ You may also see the list of recommended literature:
 
 | Lecture Topic | Lecture Date | Notes | Home Assignment |  Deadline  |
 |:-|:-:|:-:|:-:|:-:|
-| Course structure. Introduction to algorithms. Big-O formalism, examples and counterexamples. | 26.09.2024 | [notes](/lectures/01_introduction/notes_26.09.25.pdf) | [assignment](/home_assignments/ha01/algai2025hw1.pdf) | 02.10.25 23:59 |
+| Course structure. Introduction to algorithms. Big-O formalism, examples and counterexamples. | 26.09.2024 | [notes](/lectures/01_introduction/notes_introduction.pdf) | [assignment](/home_assignments/ha01/algai_ha1_2025.pdf) | 02.10.25 23:59 |
