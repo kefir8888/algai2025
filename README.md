@@ -27,4 +27,5 @@ You may also see the list of recommended literature:
 
 | Lecture Topic | Lecture Date | Notes | Home Assignment |  Deadline  |
 |:-|:-:|:-:|:-:|:-:|
-| Course structure. Introduction to algorithms. Big-O formalism, examples and counterexamples. | 26.09.2024 | [notes](/lectures/01_introduction/notes_introduction.pdf) | [assignment](/home_assignments/ha01/algai_ha01_2025.pdf) | 02.10.25 23:59 |
+| Course structure. Introduction to algorithms. Big-O formalism, examples and counterexamples. | 26.09.2025 | [notes](/lectures/01_introduction/notes_introduction.pdf) | [assignment](/home_assignments/ha01/algai_ha01_2025.pdf) | 02.10.2025 23:59 |
+| Sorting Algorithms: Bubble, Merge, Counting. Lower Bound on Comparison Sort Asymptotic Complexity | 03.10.2025 | [notes](/lectures/02_introduction/notes_lower_bounds_fibonacci.pdf) | [assignment](/home_assignments/ha02/algai_ha02_2025.pdf) | 09.10.2025 23:59 |
