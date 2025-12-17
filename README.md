@@ -35,3 +35,7 @@ You may also see the list of recommended literature:
 | Greatest Common Divisor. Euclid Algorithm. Extended Euclid. | 31.10.2025 | [notes](/lectures/06_euclid/notes_euclid.pdf) | [assignment](/home_assignments/ha06/algai_ha06_2025.pdf) | 06.11.2025 23:59 |
 | Queue. Stack. Amortized Analysis. Integral Images. | 07.11.2025 | [notes](/lectures/07_data_structures/notes_data_structures.pdf) | [assignment](/home_assignments/ha07/algai_ha07_2025.pdf) | 13.11.2025 23:59 |
 | **Midterm** | 14.11.2025 | - | - | - |
+| Types of Graphs. Proving Basic Properties. | 21.11.2025 | [notes](/lectures/09_graphs_basics/notes_graphs_basics.pdf) | [assignment](/home_assignments/ha09/algai_ha09_2025.pdf) | 27.11.2025 23:59 |
+| Bipartite Graphs. Tournaments. Depth-First Search. | 28.11.2025 | [notes](/lectures/10_graphs_dfs/notes_graphs_dfs.pdf) | [assignment](/home_assignments/ha10/algai_ha10_2025.pdf) | 04.12.2025 23:59 |
+| Breadth-First Search. Shortest Paths. Obstacle Avoidance through Shortest Paths. Dijkstra Algorithm Formulation. | 05.12.2025 | [notes](/lectures/11_bfs_shortest_path/notes_bfs_shortest_path.pdf) | [assignment](/home_assignments/ha11/algai_ha11_2025.pdf) | 11.12.2025 23:59 |
+| Proof for Dijkstra's Algorithm. Bellman-Ford Algorithm with Proof. Floyd-Warshall Algorithm Formulation. | 12.12.2025 | [notes](/lectures/12_bellman_ford/notes_bellman_ford.pdf) | [assignment](/home_assignments/ha12/algai_ha12_2025.pdf) | 18.12.2025 23:59 |
