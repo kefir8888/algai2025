@@ -39,3 +39,4 @@ You may also see the list of recommended literature:
 | Bipartite Graphs. Tournaments. Depth-First Search. | 28.11.2025 | [notes](/lectures/10_graphs_dfs/notes_graphs_dfs.pdf) | [assignment](/home_assignments/ha10/algai_ha10_2025.pdf) | 04.12.2025 23:59 |
 | Breadth-First Search. Shortest Paths. Obstacle Avoidance through Shortest Paths. Dijkstra Algorithm Formulation. | 05.12.2025 | [notes](/lectures/11_bfs_shortest_paths/notes_bfs_shortest_paths.pdf) | [assignment](/home_assignments/ha11/algai_ha11_2025.pdf) | 11.12.2025 23:59 |
 | Proof for Dijkstra's Algorithm. Bellman-Ford Algorithm with Proof. Floyd-Warshall Algorithm Formulation. | 12.12.2025 | [notes](/lectures/12_bellman_ford/notes_bellman_ford.pdf) | [assignment](/home_assignments/ha12/algai_ha12_2025.pdf) | 18.12.2025 23:59 |
+| Minimal Spanning Trees. | 19.12.2025 | [notes](/lectures/13_spanning_trees/notes_spanning_trees.pdf) | [assignment](/home_assignments/ha13/algai_ha13_2025.pdf) | 25.12.2025 23:59 |
