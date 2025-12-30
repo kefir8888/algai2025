@@ -40,3 +40,4 @@ You may also see the list of recommended literature:
 | Breadth-First Search. Shortest Paths. Obstacle Avoidance through Shortest Paths. Dijkstra Algorithm Formulation. | 05.12.2025 | [notes](/lectures/11_bfs_shortest_paths/notes_bfs_shortest_paths.pdf) | [assignment](/home_assignments/ha11/algai_ha11_2025.pdf) | 11.12.2025 23:59 |
 | Proof for Dijkstra's Algorithm. Bellman-Ford Algorithm with Proof. Floyd-Warshall Algorithm Formulation. | 12.12.2025 | [notes](/lectures/12_bellman_ford/notes_bellman_ford.pdf) | [assignment](/home_assignments/ha12/algai_ha12_2025.pdf) | 18.12.2025 23:59 |
 | Minimal Spanning Trees. | 19.12.2025 | [notes](/lectures/13_spanning_trees/notes_spanning_trees.pdf) | [assignment](/home_assignments/ha13/algai_ha13_2025.pdf) | 25.12.2025 23:59 |
+| Dynamical Programming. | 26.12.2025 | [notes](/lectures/14_dynamic_programming/notes_dynamic_programming.pdf) | [assignment](/home_assignments/ha14/algai_ha14_2025.pdf) | 15.01.2026 23:59 |
